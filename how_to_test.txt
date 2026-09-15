@@ -1,0 +1,3 @@
+01. cd ~/Downloads/phamduong-ngocanh.iwedding.info
+02. python3 -m http.server 8000
+03. mở http://localhost:8000 xem thử, Ctrl+C để tắt
